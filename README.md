@@ -7,3 +7,4 @@ software
 ## 关于
 
 我正在学习如何使用 GitHub。
+学习GitHub提交功能
